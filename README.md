@@ -6,7 +6,7 @@
 
 ## Results
 #### Below is the end results of the "Total Fare by City Type" which shows the highest activity for Urban areas and the lowest for Rural areas.
-[graph](analysis/PyBer_fare_summary.png)
+[PyBer_fare_summary](analysis/PyBer_fare_summary.png)
 
 
 ## Summary
