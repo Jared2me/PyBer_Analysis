@@ -2,7 +2,7 @@
 
 
 ## Overview of Analysis
-#### This project is an analysis of the PyBer ride share data by location type. It is comparing Urban / Suburban / Rural ride data and weekly fare by city type.  
+#### This project is an analysis of the PyBer ride share data by location type. It is comparing Urban / Suburban / Rural ride data and weekly fare in early 2019 by city type.  
 
 ## Results
 #### Below is the end results of the "Total Fare by City Type" which shows the highest activity for Urban areas and the lowest for Rural areas.
